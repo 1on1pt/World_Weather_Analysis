@@ -4,3 +4,10 @@
 
 ### Resources
 
+## Weather Database
+
+### Statistal Analysis of Weather Parameters
+
+## Vacation Search
+
+## Vacation Itinerary
