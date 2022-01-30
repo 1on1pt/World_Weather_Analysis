@@ -29,6 +29,56 @@ Here is a sample of the data that was collected:
 
 ### Statistal Analysis of Weather Parameters
 
+Additional statatistical analysis was performed to determine the relationship between latitude and the following weather parameters:
+* Maximum Temperature
+* % Humidity
+* % Cloudiness
+* Wind Speed
+
+![image](https://user-images.githubusercontent.com/94148420/151720697-7e71250f-a1a0-4e37-9b0b-a5be1eb1abfc.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151720717-e578e8ae-ccf0-4bd8-bbb9-d1ece13f9b6f.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151720734-1da9c4d9-e7fd-4c72-ba71-c44d6fff8dfb.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151720751-672a4b14-bbdf-4bde-baab-16db46d65d54.png)
+
+In addition, a linear regression was performed comparing the Northern and Southern Hemispheres on the following weather parameters:
+* Maximum Temperature
+* % Humidity
+* % Cloudiness
+* Wind Speed
+
+
+***Maximum Temperature***
+
+![image](https://user-images.githubusercontent.com/94148420/151720920-17693df8-15fe-49b3-a8ff-13f295ec0e45.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151720929-101ab297-2475-4fe2-af91-38562dd4c4a5.png)
+
+
+***Percent Humidity***
+
+![image](https://user-images.githubusercontent.com/94148420/151720960-e62755cb-542e-4e7f-aa19-397ecf6c2d00.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151720976-b4763309-c2c5-454e-94ea-f5bd285dcc35.png)
+
+
+***Percent Cloudiness***
+
+![image](https://user-images.githubusercontent.com/94148420/151721009-7d038886-b58b-400e-ad28-c2df5ec1329d.png)
+
+
+![image](https://user-images.githubusercontent.com/94148420/151721030-9e94411b-e7b5-476f-bb2c-f97400f04959.png)
+
+
+***Wind Speed***
+
+![image](https://user-images.githubusercontent.com/94148420/151721083-449f9984-57e5-4aca-b9eb-185869deb6d8.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151721105-7052e60d-fa59-4a5e-bf9f-62962fc25fdb.png)
+
+
 ## Vacation Search
 
 ## Vacation Itinerary
