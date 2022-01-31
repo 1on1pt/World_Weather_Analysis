@@ -94,10 +94,10 @@ By utilizing the functionality of the Jupyter Notebook's gmaps plugin, a user is
 
 ## Vacation Itinerary
 
-The final two outputs of the PlanMyTrip app will display a vacation route and itinerary using the Google Directions API with the user identifying four cities.  The examples below were four cities chosen by a user planning a trip to South Africa.  These maps show: 
+The final two outputs of the PlanMyTrip app will display a vacation itinerary and city detail map using the Google Directions API with the user identifying four cities.  The examples below were four cities chosen by a user planning a trip to South Africa.  These maps show: 
 
-1. A vacation route
-2. An itinerary with pop-ups that include:
+1. A vacation itinerary
+2. An city detail map with pop-ups that include:
       * Hotel Name
       * City
       * Country
