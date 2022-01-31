@@ -29,7 +29,7 @@ Here is a sample of the data that was collected:
 
 ### Statistal Analysis of Weather Parameters
 
-Additional statatistical analysis was performed to determine the relationship between latitude and the following weather parameters:
+A statatistical analysis was performed to determine the relationship between latitude and the following weather parameters:
 * Maximum Temperature
 * % Humidity
 * % Cloudiness
@@ -79,6 +79,33 @@ In addition, a linear regression was performed comparing the Northern and Southe
 ![image](https://user-images.githubusercontent.com/94148420/151721105-7052e60d-fa59-4a5e-bf9f-62962fc25fdb.png)
 
 
-## Vacation Search
+## Vacation Search Based on User's Weather Preferences
+
+By utilizing the functionality of the Jupyter Notebook's gmaps plugin, a user is then able to input weather preferences.  This information will provide data and facilitate a request to the Google Maps and Places API generating a marker layer map with pop-up markers displaying the following information:
+
+* Hotel Name
+* City
+* Country
+* Current Weather
+* Maximum Temperature
+
+![image](https://user-images.githubusercontent.com/94148420/151728068-57fadcd5-231c-4037-8dab-b5326b7adb78.png)
+
 
 ## Vacation Itinerary
+
+The final two outputs of the PlanMyTrip app will display a vacation route and itinerary using the Google Directions API with the user identifying four cities.  The examples below were four cities chosen by a user planning a trip to South Africa.  These maps show: 
+
+1. A vacation route
+2. An itinerary with pop-ups that include:
+  * Hotel Name
+  * City
+  * Country
+  * Current Weather
+  * Max Temp
+
+![image](https://user-images.githubusercontent.com/94148420/151728383-5580127a-cedd-4f0f-9c67-3399126473e5.png)
+
+![image](https://user-images.githubusercontent.com/94148420/151728876-048f03b1-3190-410f-90a0-35b4a186978c.png)
+
+
