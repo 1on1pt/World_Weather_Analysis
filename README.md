@@ -98,11 +98,11 @@ The final two outputs of the PlanMyTrip app will display a vacation route and it
 
 1. A vacation route
 2. An itinerary with pop-ups that include:
-  * Hotel Name
-  * City
-  * Country
-  * Current Weather
-  * Max Temp
+      * Hotel Name
+      * City
+      * Country
+      * Current Weather
+      * Max Temp
 
 ![image](https://user-images.githubusercontent.com/94148420/151728383-5580127a-cedd-4f0f-9c67-3399126473e5.png)
 
